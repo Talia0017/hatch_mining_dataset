@@ -42,6 +42,8 @@ Python 3.9+; **standard library only**, no pandas installation required. The sou
 python3 scripts/preprocess.py --input "/path/to/MiningProcess_Flotation_Plant_Database.csv"
 ```
 
+Data source: [Quality Prediction in a Mining Process on Kaggle](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process). The repository includes numerical hourly aggregates and audit summaries derived from that dataset, not the raw 184 MB export. The data contain historical clock coordinates and numeric process measurements, with no personal identifiers or site names.
+
 The original file is read without modification. It contains 737,453 rows and 24 columns, occupies 183,766,261 bytes, and has SHA-256:
 
 ```text
