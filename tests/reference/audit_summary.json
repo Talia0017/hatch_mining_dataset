@@ -1,0 +1,28 @@
+{
+  "raw_rows": 737453,
+  "columns": 24,
+  "source_filename": "MiningProcess_Flotation_Plant_Database.csv",
+  "source_sha256": "ae0231a0bd2e14aac39cf978d81db6c71907a42aade19327816692c4e30cb956",
+  "source_bytes": 183766261,
+  "start": "2017-03-10 01:00:00",
+  "end": "2017-09-09 23:00:00",
+  "observed_hours": 4097,
+  "calendar_hours_inclusive": 4415,
+  "unobserved_hours": 318,
+  "missing_cells": 0,
+  "exact_duplicate_rows": 1171,
+  "all_labels_on_hour": true,
+  "rows_per_hour_min": 174,
+  "rows_per_hour_median": 180.0,
+  "rows_per_hour_max": 180,
+  "constant_silica_hours": 3787,
+  "varying_silica_hours": 310,
+  "varying_iron_hours": 216,
+  "longest_identical_silica_run": {
+    "observed_hour_labels": 73,
+    "start": "2017-07-31 20:00:00",
+    "end": "2017-08-03 20:00:00",
+    "value": 2.08
+  },
+  "broad_bound_flag_total": 0
+}

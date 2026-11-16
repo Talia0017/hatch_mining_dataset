@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.sites-runtime/
+__pycache__/
+.DS_Store
+*.log
+
+# Keep raw data, local screenshots, environments and credentials out of Git.
+MiningProcess_Flotation_Plant_Database.csv
+screenshots/
+.venv/
+.env
+.env.*
+!.env.example
